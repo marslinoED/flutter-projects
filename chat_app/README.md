@@ -2,5 +2,5 @@
 
 chat app pased on command line theme.
 
-!\[Screenshot1](https://wikipedia.org/)
+![Screenshot1](screenshots\00-NoAuth.jpg)
 
