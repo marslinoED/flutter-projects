@@ -3,7 +3,7 @@
 chat app pased on command line theme.
 <style>
     img{
-        width ="300"
+        width = 300px
     }
 </style>
 <p align="center">
