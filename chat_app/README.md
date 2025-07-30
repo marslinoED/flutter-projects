@@ -4,7 +4,7 @@ chat app pased on command line theme.
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <b>Offline</b><br>
@@ -17,7 +17,7 @@ chat app pased on command line theme.
   </tr>
   <tr>
     <td align="center">
-      <b>Auth2</b><br>
+      <b>EnterName</b><br>
       <img src="screenshots/02-Auth2.jpg" width="300">
     </td>
     <td align="center">
