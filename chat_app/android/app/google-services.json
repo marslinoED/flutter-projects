@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353276133385",
+    "project_id": "talking-97cc3",
+    "storage_bucket": "talking-97cc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353276133385:android:1511ea8a6252c729a738d8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjW3WBBtXTgo4zjifZMEo5D5VHJRx4yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353276133385:android:c9cb9ddcba2fa5d7a738d8",
+        "android_client_info": {
+          "package_name": "com.example.talking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjW3WBBtXTgo4zjifZMEo5D5VHJRx4yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+my firebase:
+    |
+    |--> COLLECTIONS:
+            |
+            |
+            |--> 1. POSTS: 
+            |         |
+            |         |--> FIELDS"
+            |                 |
+            |                 |
+            |                 |--> 1. post: "PostText"
+            |                 |--> 2. date: "PostDate"
+            |                 |--> 3. time: "PostTime"
+            |                 |--> 4. uId: "PostUserId"
+            |                 |--> 5. name: "PostUserName"
+            |
+            |--> 2. Users: 
+                      |
+                      |--> DOCUMENTS:
+                                
+                                |
+                                |--> 1. User1Id: #
+                                |--> 2. User2Id: #
+                                |--> 3. User3Id: 
+                                          |
+                                          |--> FIELDS:
+                                          |       |
+                                          |       |
+                                          |       |--> 1. name: "User3Name"
+                                          |       |--> 2. phone: "User3Phone"
+                                          |       |--> 3. email: "User3Email"
+                                          |       |--> 4. image: "User3Image"
+                                          |       |--> 5. cover: "User3Cover"
+                                          |       |--> 6. bio: "User3Bio"
+                                          |
+                                          |
+                                          |--> COLLECTIONS:
+                                                    |
+                                                    |
+                                                    |--> 1. chats:
+                                                            |
+                                                            |---> DOCUMENTS:
+                                                                      |
+                                                                      |--> 1. User1Id: #
+                                                                      |--> 2. User2Id:
+                                                                                 |
+                                                                                 |--> COLLECTIONS:
+                                                                                          |
+                                                                                          |--> 1. messages:
+                                                                                                      |
+                                                                                                      |--> DOCUMENTS:
+                                                                                                                |
+                                                                                                                |--> 1. Message1Id: #
+                                                                                                                |--> 2. Message2Id: #
+                                                                                                                |--> 3. Message3Id: #
+                                                                                                                              |
+                                                                                                                              |--> FIELDS:
+                                                                                                                                      |
+                                                                                                                                      |--> 1. text: "Message3Text"
+                                                                                                                                      |--> 2. date: "Message3Date"
+                                                                                                                                      |--> 3. time: "Message3Time"
+                                                                                                                                      |--> 4. dateTime: "Message3DateAndTime"
+                                                                                                                                      |--> 5. sId: "Message3SenderId"
+                                                                                                                                      |--> 6. rId: "Message3ReciverId"
+                                                                                                                                      |--> 7. mId: "Message3Id"

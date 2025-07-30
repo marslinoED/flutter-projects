@@ -1,0 +1,133 @@
+⚔️ "Saints of Silence"
+
+You're a lone knight in a cursed land.
+Each enemy you face plays to decide your fate (21-style duel).
+But each enemy cheats differently.
+You unlock sigils and artifacts that manipulate your deck.
+After each win, you move deeper into the world.
+
+
+1. Core Game System:
+    Players:
+        Profile:
+            # Player name, avatar, level
+            # Experience points and progression
+            # Win/Loss record
+            # Total games played
+            # Best winning streak
+        Coins:
+            # Total coins with Players
+            # Daily rewards
+            # Win bonuses
+            # Shop system
+        History:
+            # Games played
+            # Scores achieved
+            # Wins & losses counters
+            # Achievement progress
+
+2. Card System:
+    Deck:
+        # Main deck (1-10 cards)
+        # Side deck (special cards)
+        # Card collection
+        # Card unlocking system
+    Card Types:
+        # Number cards (1-10)
+        # Special cards (+, -, ±)
+        # Custom card designs
+    Card Management:
+        # Card selection interface
+        # Card playing mechanics
+        # Card animation system
+
+3. Game Modes:
+    Quick Play:
+        # Random opponent matching
+        # Ranked matches
+        # Casual matches
+    Tournament:
+        # Tournament brackets
+        # Prize system
+        # Leaderboards
+    Practice:
+        # AI opponents
+        # Difficulty levels
+        # Tutorial mode
+    Custom:
+        # Friend challenges
+        # Private matches
+        # Spectator mode
+
+4. Multiplayer System:
+    Matchmaking:
+        # Skill-based matching
+        # Region-based matching
+        # Friend invites
+    Game State:
+        # Real-time synchronization
+        # Turn management
+        # Score tracking
+        # Game history
+    Social Features:
+        # Friend system
+        # Chat system
+        # Spectator mode
+        # Share results
+
+5. UI/UX Elements:
+    Game Interface:
+        # Card display
+        # Score board
+        # Turn indicators
+        # Player info
+    Animations:
+        # Card flip
+        # Score changes
+        # Win/lose effects
+    Settings:
+        # Sound controls
+        # Music controls
+        # Language options
+        # Accessibility settings
+
+6. Technical Features:
+    Data Management:
+        # Player data storage
+        # Game state persistence
+        # Cloud save
+    Network:
+        # Real-time multiplayer
+        # Server communication
+        # Matchmaking system
+    Security:
+        # Anti-cheat system
+        # Fair play monitoring
+        # Account protection
+
+7. Progression System:
+    Player Levels:
+        # Experience points
+        # Level rewards
+        # Unlockable content
+    Achievements:
+        # Game milestones
+        # Special challenges
+        # Daily tasks
+    Rewards:
+        # Daily login bonus
+        # Win streaks
+        # Tournament prizes
+        # Special events
+
+8. Monetization (Optional):
+    Shop:
+        # Card packs
+        # Custom card designs
+        # Special effects
+        # Premium features
+    Premium Features:
+        # Ad-free experience
+        # Exclusive cards
+        # Custom themes
+        # Priority matchmaking

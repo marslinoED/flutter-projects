@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\SETUP\\flutter_windows_3.16.9-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\SETUP\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\vs code\\Flutter Projects\\news\\android\\app\\.cxx\\RelWithDebInfo\\544x4g56\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\SETUP\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\vs code\\Flutter Projects\\news\\android\\app\\.cxx\\RelWithDebInfo\\544x4g56\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

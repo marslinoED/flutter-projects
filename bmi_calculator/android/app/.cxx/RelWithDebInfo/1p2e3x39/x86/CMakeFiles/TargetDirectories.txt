@@ -1,0 +1,2 @@
+E:/vs code/Flutter Projects/bmi_calculator/android/app/.cxx/RelWithDebInfo/1p2e3x39/x86/CMakeFiles/edit_cache.dir
+E:/vs code/Flutter Projects/bmi_calculator/android/app/.cxx/RelWithDebInfo/1p2e3x39/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,41 @@
+name: chat_app
+description: "chat app pased on command line theme."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+  flutter_launcher_icons: ^0.14.3
+  audioplayers: ^5.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.jpeg"  # Updated path for app icon
+  adaptive_icon_background: "#ffffff"
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/windows_command_prompt/windows_command_prompt.ttf
+    - assets/fonts/windows_command_prompt/arabic_windows_command_prompt.ttf
+    - assets/sounds/
+    - assets/sounds/screen-tap.mp3
+  fonts:
+    - family: WindowsCommandPrompt
+      fonts:
+        - asset: assets/fonts/windows_command_prompt/windows_command_prompt.ttf
+    - family: ArabicWindowsCommandPrompt
+      fonts:
+        - asset: assets/fonts/windows_command_prompt/arabic_windows_command_prompt.ttf

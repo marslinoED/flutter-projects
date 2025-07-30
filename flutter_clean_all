@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo "📦 Starting clean-up for all Flutter projects in: $(pwd)"
+echo "---------------------------------------------------------"
+
+for dir in */; do
+  if [ -f "$dir/pubspec.yaml" ]; then
+    echo "🧹 Cleaning project: $dir"
+    cd "$dir" || continue
+
+    flutter clean
+
+    rm -rf .dart_tool/ .idea/ .vscode/ build/ pubspec.lock
+    rm -rf ios/Pods ios/.symlinks ios/Flutter/Flutter.framework ios/Flutter/Flutter.podspec
+    rm -rf android/.gradle android/app/build/
+
+    echo "✅ Done: $dir"
+    cd ..
+  fi
+done
+
+echo "🎉 All projects cleaned!"

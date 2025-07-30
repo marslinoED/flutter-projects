@@ -1,0 +1,1 @@
+E:\vs code\Flutter Projects\messanger_app\build\app\intermediates\cxx\RelWithDebInfo\2r19ij2n\obj\armeabi-v7a

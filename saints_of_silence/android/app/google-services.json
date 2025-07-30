@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068342579969",
+    "project_id": "saints-of-silence",
+    "storage_bucket": "saints-of-silence.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068342579969:android:0d58331a04279e76410100",
+        "android_client_info": {
+          "package_name": "com.example.saints_of_silence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ckFYOfKNtPuL1u_m7sD-qE90EDaRtps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
