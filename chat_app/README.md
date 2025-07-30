@@ -3,8 +3,9 @@
 chat app pased on command line theme.
 
 <div align="center">
+<a href"https://talking-97cc3.web.app/">Try it Out</a>
 
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <b>Offline</b><br>
